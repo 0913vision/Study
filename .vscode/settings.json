@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "tuple": "cpp",
+        "time.h": "c",
+        "math.h": "c"
+    }
+}
