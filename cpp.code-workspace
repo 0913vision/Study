@@ -6,7 +6,10 @@
 	],
 	"settings": {
 		"files.associations": {
-			"utility": "cpp"
+			"utility": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"cmath": "cpp"
 		}
 	}
 }
